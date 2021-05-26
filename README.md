@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eddie000000
-- 👀 I’m interested in ... DeepLearning,Web security,Block Chain
-- 🌱 I’m currently learning ...DeepLearning,Web security,Block Chain
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in DeepLearning,Web security,Block Chain
+- 🌱 I’m currently learning DeepLearning,Web security,Block Chain
 - 📫 How to reach me ... eddielin8743512@gmail.com
 
 <!---
