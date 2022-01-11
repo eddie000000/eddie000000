@@ -2,6 +2,7 @@
 - 👀 I’m interested in DeepLearning,Web security,Block Chain
 - 🌱 I’m currently learning DeepLearning,Web security,Block Chain
 - 📫 How to reach me ... eddielin8743512@gmail.com
+- 📫 有任何疑問歡迎寄信給我 ... eddielin8743512@gmail.com
 
 <!---
 eddie000000/eddie000000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
